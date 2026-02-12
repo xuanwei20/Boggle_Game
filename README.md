@@ -37,6 +37,7 @@ Boggle_Game/
 ├── start_boggle.py   # Main game logic
 ├── words.txt         # Dictionary file
 ├── LICENSE
+├── Readme.md         # This file
 └── .gitignore
 ```
 
