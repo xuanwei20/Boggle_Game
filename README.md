@@ -21,7 +21,6 @@ This project searches the board for all valid words and calculates the total sco
 
 ## 🚀 Features
 
-- 🔤 Automatically finds valid words from a Boggle board
 - 📄 Uses a dictionary file (`words.txt`) for word validation
 - 🧠 Applies official Boggle-style scoring rules
 - 🐍 Written in Python (no external dependencies required)
@@ -90,8 +89,8 @@ Follow any on-screen prompts (if applicable).
 
 ## 📘 How It Works
 
-1. The program generates or reads a Boggle board.
-2. It searches all possible adjacent letter combinations.
+1. The program generates a Boggle board.
+2. Player searches all possible adjacent letter combinations.
 3. Valid words found in `words.txt` are collected.
 4. The final list of words and total score are displayed.
 
@@ -102,7 +101,6 @@ Follow any on-screen prompts (if applicable).
 - Add a graphical user interface (GUI)
 - Allow custom board sizes
 - Add multiplayer mode
-- Improve search efficiency
 - Add unit testing
 
 ---
